@@ -11774,7 +11774,6 @@
   <block id="fee984743f91b24dec86f77ceb6dd622" category="summary">Mithilfe der Seite Cluster Setup können Sie das Inventar der Cluster anzeigen. Sie können Details zu den Clustern anzeigen, z. B. ihren Namen oder ihre IP-Adresse und ihren Kommunikationsstatus.</block>
   <block id="ee45945ca017877dfd40f7584086a95c" category="doc">Anzeigen der Liste der überwachten Cluster</block>
   <block id="4fc6414dc545bf81af50810b29da761c" category="list-text">Klicken Sie im linken Navigationsbereich auf *Storage-Management* &gt; *Cluster-Setup*. + Alle vom Unified Manager gemanagten Cluster in Ihrer Storage-Umgebung werden angezeigt. Die Liste der Cluster wird nach der Spalte „Sammlungsstatus“ sortiert. Sie können auf eine Spaltenüberschrift klicken, um die Cluster nach unterschiedlichen Spalten zu sortieren.</block>
-  <block id="91d9102f2b20d2487525cb47bf7d79a5" category="summary">Dokumentation für Active IQ Unified Manager, AIQUM Dokumentation, um Dokumentation</block>
   <block id="4a58c6ba2ac7cf0f2cd001d223b14e50" category="doc">Active IQ Unified Manager-Dokumentation</block>
   <block id="c43f49bfb2a365defe9da104160918a2" category="sidebar">Mit Active IQ Unified Manager (Unified Manager und früher OnCommand Unified Manager) können Sie den Zustand und die Performance Ihrer ONTAP Storage-Systeme über eine einzige Benutzeroberfläche überwachen und managen. Diese Dokumentationsbibliothek enthält Informationen zu Version 9.12.</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Los geht's</block>
@@ -11828,7 +11827,6 @@
   <block id="ede607b26fd609858d7be7ff1e138cb0" category="sidebar">Dokumentation für Active IQ Unified Manager 9.9 oder früher</block>
   <block id="ef4b00aa7f2b133711aca050ace6508d" category="sidebar">Active IQ Unified Manager 9.12 Dokumentation</block>
   <block id="f4a82a67b559f4b99078d99e20c3f730" category="sidebar">Dokumentation für Active IQ Unified Manager 9.11</block>
-  <block id="85f73dd16ea214346164b0deea26773b" category="sidebar">Unified Manager</block>
   <block id="8b00815fc5298212e3dc28a279ed4a10" category="sidebar">Erstellen benutzerdefinierter Berichte</block>
   <block id="9304b0fee761c30cb0f91f15de511efc" category="sidebar">Erstellung eines Berichts, um fast voll gezuschlagvolle Aggregate anzuzeigen</block>
   <block id="32d8b1bb1bdc5067bfbde495253b3469" category="sidebar">Überwachen und managen Sie den Cluster-Zustand</block>
@@ -11909,4 +11907,5 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="db99ce16b5159248c143ce69889e1798" category="sidebar">Dokumentation für Active IQ Unified Manager 9.12.</block>
 </blocks>
